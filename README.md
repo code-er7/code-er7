@@ -6,7 +6,7 @@
 <h3 align="center">Wanna know me ?</h3>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
-- 🔭 I’m currently working on **To-Do List**
+- 🔭 I’m currently working on **HealthyFy Me App**
 
 - 🌱 I’m currently learning **React**
 
